@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hoifanrd.github.io/sitemap.xml
